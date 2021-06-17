@@ -1,6 +1,6 @@
 module github.com/bregydoc/gtranslate
 
-go 1.16
+go 1.15
 
 require (
 	github.com/robertkrimen/otto v0.0.0-20210614181706-373ff5438452

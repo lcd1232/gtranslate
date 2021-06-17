@@ -73,11 +73,13 @@ func TestTranslateAdvanced(t *testing.T) {
 		require.NoError(t, err)
 		assert.Equal(t, Translated{
 			Original:              "hi",
+			OriginalLanguage:      "en",
 			OriginalPronunciation: "hī",
 			Text:                  "Привет",
 			Pronunciation:         "Privet",
 			Definitions: []string{
 				"used as a friendly greeting or to attract attention.",
+				"Hawaii (in official postal use).",
 			},
 			Examples: []string{
 				"“Hi there. How was the flight?”",
