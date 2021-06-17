@@ -120,6 +120,111 @@ var responses = []string{
 ]
 ]
 `,
+	`[[["частный","private",null,null,10]
+,[null,null,"chastnyy","ˈprīvit"]
+]
+,[["имя прилагательное",["частный","личный","конфиденциальный","рядовой","уединенный","негласный","неофициальный","тайный"]
+,[["частный",["private","partial","particular","individual","proprietary","local"]
+,null,0.08737902]
+,["личный",["private","personal","individual","intimate","identity","direct"]
+,null,0.016939197]
+,["конфиденциальный",["confidential","private","privy","tete-a-tete"]
+,null,9.2624204E-4]
+,["рядовой",["private","common","common-or-garden","rank-and-file"]
+,null,8.4335293E-4]
+,["уединенный",["secluded","solitary","lonely","private","remote","cloistered"]
+,null,1.8526005E-4]
+,["негласный",["secret","private","backroom"]
+,null,9.611165E-5]
+,["неофициальный",["informal","unofficial","private","inofficial","officious","unceremonious"]
+,null,1.7778868E-5]
+,["тайный",["secret","covert","clandestine","arcane","undercover","private"]
+,null,1.6964714E-5]
+]
+,"private",3]
+,["имя существительное",["рядовой","половые органы"]
+,[["рядовой",["soldier","private","common soldier","squaddie","Tommy Atkins","tommy"]
+,null,8.4335293E-4,null,1]
+,["половые органы",["genitals","genitalia","private parts","private","privates","privy parts"]
+]
+]
+,"private",1]
+]
+,"en",null,null,[["private",null,[["частный",1000,true,false,[10,3,0]
+]
+]
+,[[0,7]
+]
+,"private",0,0]
+]
+,0.9760956,[]
+,[["en"]
+,null,[0.9760956]
+,["en"]
+]
+,null,null,[["имя прилагательное",[[["personal","one's own","individual","particular","special","exclusive","privately owned"]
+,"m_en_gbus0816730.006"]
+,[["confidential","strictly confidential","secret","top secret","classified","unofficial","off the record","not for publication","not to be made public","not to be disclosed","closet","backstage","offstage","privileged","one-on-one","tête-à-tête","covert","clandestine","surreptitious","in camera"]
+,"m_en_gbus0816730.008"]
+,[["hush-hush"]
+,"m_en_gbus0816730.008",[["informal"]
+]
+]
+,[["intimate","personal","secret","innermost","inward","unspoken","undeclared","undisclosed","unvoiced","sneaking","hidden"]
+,"m_en_gbus0816730.009"]
+,[["reserved","introvert","introverted","self-contained","reticent","discreet","uncommunicative","noncommunicative","media-shy","unforthcoming","secretive","retiring","ungregarious","unsocial","unsociable","withdrawn","solitary","insular","reclusive","hermitlike","hermitic"]
+,"m_en_gbus0816730.010"]
+,[["secluded","secret","quiet","undisturbed","concealed","hidden","remote","isolated","out of the way","sequestered"]
+,"m_en_gbus0816730.012"]
+,[["unofficial","personal","non-official","nonpublic"]
+,"m_en_gbus0816730.016"]
+,[["independent","non-state-controlled","non-state-run","privatized","denationalized","nonpublic","commercial","private-enterprise"]
+,"m_en_gbus0816730.018"]
+]
+,"private"]
+,["имя существительное",[[["swad","swaddy"]
+,"m_en_gbus0816730.023",[["archaic"]
+]
+]
+,[["private soldier","common soldier","infantryman","foot soldier","trooper","sapper","ranker","GI","enlisted man","poilu","jawan"]
+,"m_en_gbus0816730.023"]
+,[["Tommy","squaddie","Tommy Atkins","grunt","buck private","digger","troopie"]
+,"m_en_gbus0816730.023",[["informal"]
+]
+]
+]
+,"private"]
+]
+,[["имя прилагательное",[["belonging to or for the use of one particular person or group of people only.","m_en_gbus0816730.006","all bedrooms have private facilities"]
+,["(of a person) having no official or public role or position.","m_en_gbus0816730.015","the paintings were sold to a private collector"]
+,["(of a service or industry) provided or owned by an individual or an independent, commercial company rather than by the government.","m_en_gbus0816730.018","research projects carried out by private industry"]
+]
+,"private"]
+,["имя существительное",[["a soldier of the lowest rank, in particular an enlisted person in the US Army or Marine Corps ranking below private first class.","m_en_gbus0816730.023"]
+,["short for private parts.","m_en_gbus0816730.027",null,[["informal"]
+]
+]
+]
+,"private"]
+]
+,[[["a small \u003cb\u003eprivate\u003c/b\u003e service in the chapel",null,null,null,3,"m_en_gbus0816730.008"]
+,["his \u003cb\u003eprivate\u003c/b\u003e plane",null,null,null,3,"m_en_gbus0816730.006"]
+,["he was a very \u003cb\u003eprivate\u003c/b\u003e man",null,null,null,3,"m_en_gbus0816730.010"]
+,["all bedrooms have \u003cb\u003eprivate\u003c/b\u003e facilities",null,null,null,3,"m_en_gbus0816730.006"]
+,["the paintings were sold to a \u003cb\u003eprivate\u003c/b\u003e collector",null,null,null,3,"m_en_gbus0816730.015"]
+,["he would continue to represent her in a \u003cb\u003eprivate\u003c/b\u003e capacity as advisor and confidant",null,null,null,3,"m_en_gbus0816730.016"]
+,["she felt awkward intruding on \u003cb\u003eprivate\u003c/b\u003e grief",null,null,null,3,"m_en_gbus0816730.009"]
+,["more than 1,400 state enterprises that were about to go \u003cb\u003eprivate\u003c/b\u003e",null,null,null,3,"m_en_gbus0816730.018"]
+,["if I could afford it I'd go \u003cb\u003eprivate\u003c/b\u003e",null,null,null,3,"m_en_gbus0816730.019"]
+,["research projects carried out by \u003cb\u003eprivate\u003c/b\u003e industry",null,null,null,3,"m_en_gbus0816730.018"]
+,["\u003cb\u003eprivate\u003c/b\u003e education",null,null,null,3,"m_en_gbus0816730.019"]
+,["it was a \u003cb\u003eprivate\u003c/b\u003e sale—no agent's commission",null,null,null,3,"m_en_gbus0816730.020"]
+,["can we go somewhere a little more \u003cb\u003eprivate\u003c/b\u003e?",null,null,null,3,"m_en_gbus0816730.012"]
+,["this is a \u003cb\u003eprivate\u003c/b\u003e conversation",null,null,null,3,"m_en_gbus0816730.011"]
+]
+]
+]
+`,
 }
 
 func TestTranslateAdvanced(t *testing.T) {
@@ -167,6 +272,25 @@ func TestTranslateAdvanced(t *testing.T) {
 					"hello there, Katie!",
 					"she was getting polite nods and hellos from people",
 					"I pressed the phone button and helloed",
+				},
+			},
+		},
+		{
+			name: "private",
+			text: "private",
+			body: responses[2],
+			want: Translated{
+				Original:              "private",
+				OriginalLanguage:      "en",
+				OriginalPronunciation: "ˈprīvit",
+				Text:                  "частный",
+				Pronunciation:         "chastnyy",
+				Definitions: []string{
+					"belonging to or for the use of one particular person or group of people only.",
+					"a soldier of the lowest rank, in particular an enlisted person in the US Army or Marine Corps ranking below private first class.",
+				},
+				Examples: []string{
+					"all bedrooms have private facilities",
 				},
 			},
 		},
