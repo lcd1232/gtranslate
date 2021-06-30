@@ -16,6 +16,9 @@ import (
 )
 
 var ttk otto.Value
+var client = &http.Client{
+	Timeout: 30 * time.Second,
+}
 
 func init() {
 	ttk, _ = otto.ToValue("0")
@@ -195,7 +198,7 @@ func translateAdvanced(
 	var r *http.Response
 
 	for tries > 0 {
-		r, err = http.Get(u.String())
+		r, err = client.Get(u.String())
 		if err != nil {
 			if err == http.ErrHandlerTimeout {
 				return Translated{}, errBadNetwork
